@@ -24,4 +24,3 @@ ENV BUNDLE_PATH=/usr/local/bundle
 RUN bundle install
 
 COPY . /$APP_ROOT
-
